@@ -6,6 +6,7 @@ nav_order: 3
 ## 🏛️ Notre Dame Student Government
 *Director of Communications*
 <img width="1500" height="500" alt="1" src="https://github.com/user-attachments/assets/4af25711-17e7-47d1-bb4f-7f56371115a2" />
+📱 Visit our Instagram!
 
 ## 🎓 2026 Class Council
 *Communications Committee Chair*
