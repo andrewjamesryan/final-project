@@ -13,6 +13,7 @@ nav_order: 5
 **University of Notre Dame,** Notre Dame, IN, *May 2026*      
 - Major: Political Science
 - Minors: Digital Marketing, Business Economics
+
 **Notre Dame Washington Program,** Washington, DC, *Fall 2024*
 - Selected to participate in a semester-long program studying and interning in Washington, DC	
 
