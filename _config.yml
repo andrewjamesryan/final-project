@@ -1,8 +1,13 @@
-title: Andrew J Ryan
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: "Andrew James Ryan"
+description: "Final Project – Code in Context"
+remote_theme: just-the-docs/just-the-docs
 
-url: https://just-the-docs.github.io
+baseurl: "/final-project"
+url: "https://andrewjamesryan.github.io"
+
+# Navigation structure
+nav_order: 1
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "GitHub Repository":
+    - "https://github.com/andrewjamesryan/final-project"
