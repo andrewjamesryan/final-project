@@ -8,7 +8,7 @@ nav_order: 2
 
 Hi, I’m **Andrew Ryan** - a student at the University of Notre Dame from Springfield, Pennsylvania.
 
-## 🇺🇸 What's Next  
+![IMG_7488](https://github.com/user-attachments/assets/41d373e5-34ab-4324-a74a-0003318aa91d) ## 🇺🇸 What's Next  
 - Naval Intelligence Officer
 - Going to Officer Candidate School (OCS) in Newport, RI after graduation in July
 
