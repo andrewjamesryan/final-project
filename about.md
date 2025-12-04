@@ -5,7 +5,7 @@ nav_order: 2
 
 # About Me
 
-Hi, I’m **Andrew Ryan** — a student at the University of Notre Dame from Springfield, Pennsylvania.
+Hi, I’m **Andrew Ryan** - a student at the University of Notre Dame from Springfield, Pennsylvania.
 
 ## 🇺🇸 What's Next  
 - Naval Intelligence Officer
