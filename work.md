@@ -6,6 +6,7 @@ nav_order: 4
 ## 🏛️ U.S. Senate
 
 In the Fall of 2024 I participated in the **Notre Dame Washington Program,** where I interned for **Senator Kyrsten Sinema.**
+
 <img width="1500" height="500" alt="Website Photos (1)" src="https://github.com/user-attachments/assets/e75a97c6-6bdf-457f-bb88-dbf02a384e22" />
 
 
