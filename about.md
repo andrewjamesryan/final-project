@@ -8,7 +8,8 @@ nav_order: 2
 
 Hi, I’m **Andrew Ryan** - a student at the University of Notre Dame from Springfield, Pennsylvania.
 
-<img src=https://github.com/user-attachments/assets/a04a0e41-3983-4667-8cf7-d8844003e904) style="float: left; margin-right: 20px; width: 220px;">
+
+<img src=![IMG_7488](https://github.com/user-attachments/assets/f64a094b-31b7-4bf9-bbab-37e435d9554f)) style="float: left; margin-right: 20px; width: 220px;">
 
  ## 🇺🇸 What's Next  
 - Naval Intelligence Officer
