@@ -11,6 +11,7 @@ nav_order: 3
 ## 🎓 2026 Class Council
 *Communications Committee Chair*
 <img width="1500" height="500" alt="2" src="https://github.com/user-attachments/assets/28cf2f32-5d89-4d1a-869d-f80892f6c1a8" />
+📱 Visit our **[Instagram](https://www.instagram.com/realndclass26)**!
 
 ## 🏫 Sorin College
 *Senior Fellow, Apparel, Website Design*
@@ -25,6 +26,7 @@ nav_order: 3
 ## 🗳️ Class Council Campaigns
 *Social Media*
 <img width="1500" height="500" alt="7" src="https://github.com/user-attachments/assets/c6cab4cc-c7b7-4015-8b9d-b4856c585264" />
+🌐 Visit our **[Website](https://sorincollege.square.site/)**!
 
 ## 📖 The Dome Yearbook
 *Design, Layout*
