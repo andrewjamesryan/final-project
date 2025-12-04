@@ -1,3 +1,9 @@
+---
+layout: default
+title: Resume
+nav_order: 5
+---
+
 ## Andrew J. Ryan
 - 554 Scenic Road, Springfield, PA 19064
 - (610) 675-7593
