@@ -15,8 +15,8 @@ Hi, I’m **Andrew Ryan** - a student at the University of Notre Dame from Sprin
 
 ## 🎓 Education
 **University of Notre Dame**  
-Political Science Major 
-Digital Marketing & Business Economics Minors
+- Political Science Major
+- Digital Marketing & Business Economics Minors
 
 ## 💡 Interests
 - John F. Kennedy
