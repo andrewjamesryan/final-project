@@ -36,9 +36,11 @@
 *Director of Communications, April 2025 - Present*
 - Promote Notre Dame Student Government by creating informative and aesthetic graphics to post on social media to audience of over 4,000
 - Collaborate with 20+ department directors and committee of 10 members to ensure proper advertisement of events and initiatives, including digital graphics, print, and multimedia efforts
+
 *2026 Class Council Communications Committee Leader, September 2022 - Present*
 - Lead the communications strategy for the Class of 2026, managing social media platforms to engage over 2,000 students with timely updates on events, initiatives, and campus opportunities
 - Create high-quality graphic, photo, and video content to maximize reach and interaction, ensuring a consistent and engaging online presence
+
 *Sorin Hall Senator, Spring 2023 - Spring 2024*
 - Drafted and successfully passed a resolution proposing a university policy change to promote campus inclusivity, securing near-unanimous support from the Senate, collaborated with student leaders and administrators to advocate for meaningful institutional improvements
 - Worked closely with fellow senators, student government officials, and university staff to review and streamline the Student Union Constitution
