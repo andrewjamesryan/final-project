@@ -15,7 +15,7 @@ Welcome! I'm **Andrew Ryan**, a political science student at the University of N
 - **[About](https://andrewjamesryan.github.io/final-project/about.html)**
 - **[Projects](https://andrewjamesryan.github.io/final-project/projects.html)**
 - **[Work](https://andrewjamesryan.github.io/final-project/work.html)**
-- **[Resume](resume.md)**
+- **[Resume](https://andrewjamesryan.github.io/final-project/resume.html)**
 - **[Contact](contact.md)**
 
 ---
