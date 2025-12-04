@@ -6,7 +6,7 @@ nav_order: 1
 
 # Andrew Ryan
 
-Welcome! I'm **Andrew Ryan**, a political science student at the University of Notre Dame with interests in public service, digital strategy, and political communication. 
+Welcome! I'm **Andrew Ryan**, a political science student at the University of Notre Dame with interests in public service, digital strategy, and political communication.  
 
 ---
 
