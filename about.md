@@ -14,9 +14,11 @@ Hi, I’m **Andrew Ryan** - a student at the University of Notre Dame from Sprin
 - Joined through the Baccalaureate Degree Completion Program (BDCP) 
 
 ## 🎓 Education
-**University of Notre Dame**  
+**University of Notre Dame,** Class of 2026 
 - Political Science Major
 - Digital Marketing & Business Economics Minors
+
+**Springfield High School,** Class of 2022
 
 ## 💡 Interests
 - John F. Kennedy
