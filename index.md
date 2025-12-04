@@ -12,10 +12,11 @@ Welcome! I'm **Andrew Ryan**, a political science student at the University of N
 
 ## 🧭 Explore the Site
 
-- **[About Me](about.md)** — background, interests, activities  
-- **[Projects](projects.md)** — academic and digital work  
-- **[Resume](resume.md)** — education, experience, and skills  
-- **[Contact](contact.md)** — how to reach me  
+- **[About](https://andrewjamesryan.github.io/final-project/about.html)**
+- **[Projects](https://andrewjamesryan.github.io/final-project/projects.html)**
+- **[Work](https://andrewjamesryan.github.io/final-project/work.html)**
+- **[Resume](resume.md)**
+- **[Contact](contact.md)**
 
 ---
 
