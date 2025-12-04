@@ -2,8 +2,7 @@ title: Andrew Ryan
 description: Personal website and academic portfolio
 theme: just-the-docs
 
-url: "https://andrewjamesryan.github.io"
-baseurl: "/final-project"
+url: https://andrewjamesryan.github.io/final-project
 
 # Navigation order
 just_the_docs:
