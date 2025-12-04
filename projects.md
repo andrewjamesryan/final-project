@@ -18,6 +18,7 @@ nav_order: 3
 <img width="1500" height="500" alt="3" src="https://github.com/user-attachments/assets/01c99a43-d943-458b-bd36-2e71045ee364" />
 <img width="1500" height="500" alt="4" src="https://github.com/user-attachments/assets/8653f351-f780-4aa5-9060-b0e6671dbb2c" />
 <img width="1500" height="500" alt="5" src="https://github.com/user-attachments/assets/9811ea6a-ade0-4bd3-b6f2-d5d35e45ec89" />
+🌐 Visit our **[Website](https://sorincollege.square.site/)**!
 
 ## 🍽️ Sorin Food Sales
 *Marketing, Promotional Content*
@@ -26,7 +27,6 @@ nav_order: 3
 ## 🗳️ Class Council Campaigns
 *Social Media*
 <img width="1500" height="500" alt="7" src="https://github.com/user-attachments/assets/c6cab4cc-c7b7-4015-8b9d-b4856c585264" />
-🌐 Visit our **[Website](https://sorincollege.square.site/)**!
 
 ## 📖 The Dome Yearbook
 *Design, Layout*
