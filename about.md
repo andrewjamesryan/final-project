@@ -10,7 +10,6 @@ Hi, I’m **Andrew Ryan** - a student at the University of Notre Dame from Sprin
 
 
 <img src=![IMG_7488](https://github.com/user-attachments/assets/f64a094b-31b7-4bf9-bbab-37e435d9554f)) style="float: left; margin-right: 20px; width: 220px;">
-
  ## 🇺🇸 What's Next  
 - Naval Intelligence Officer
 - Going to Officer Candidate School (OCS) in Newport, RI after graduation in July
