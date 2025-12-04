@@ -18,3 +18,10 @@ just_the_docs:
 
 aux_links:
   GitHub Repository: https://github.com/andrewjamesryan/final-project
+
+sass:
+  load_paths:
+    - _sass
+
+just_the_docs:
+  custom_css: custom.css
