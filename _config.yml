@@ -1,6 +1,6 @@
 title: Andrew Ryan
 description: Personal website and academic portfolio
-remote_theme: just-the-docs
+theme: just-the-docs
 
 url: "https://andrewjamesryan.github.io"
 baseurl: "/final-project"
