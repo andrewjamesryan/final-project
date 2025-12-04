@@ -1,13 +1,18 @@
-title: "Andrew James Ryan"
-description: "Final Project – Code in Context"
-remote_theme: just-the-docs
+title: Andrew Ryan
+description: Personal website and academic portfolio
+remote_theme: just-the-docs/just-the-docs
 
-baseurl: "/final-project"
 url: "https://andrewjamesryan.github.io"
+baseurl: "/final-project"
 
-# Navigation structure
-nav_order: 1
+# Navigation order
+just_the_docs:
+  navigation:
+    - index.md
+    - about.md
+    - projects.md
+    - resume.md
+    - contact.md
 
 aux_links:
-  "GitHub Repository":
-    - "https://github.com/andrewjamesryan/final-project"
+  GitHub Repository: https://github.com/andrewjamesryan/final-project
