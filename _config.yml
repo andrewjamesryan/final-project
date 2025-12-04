@@ -12,6 +12,7 @@ just_the_docs:
     - index.md
     - about.md
     - projects.md
+    - work.md
     - resume.md
     - contact.md
 
