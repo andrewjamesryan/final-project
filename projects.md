@@ -3,13 +3,28 @@ layout: default
 title: Projects
 nav_order: 3
 ---
+## 🏛️ Notre Dame Student Government
+*Director of Communications*
+<img width="1500" height="500" alt="1" src="https://github.com/user-attachments/assets/4af25711-17e7-47d1-bb4f-7f56371115a2" />
 
-<img width="1545" height="2000" alt="11" src="https://github.com/user-attachments/assets/bf1a309a-73ad-4fb5-a4a8-e470a58b87f8" />
-<img width="1545" height="2000" alt="12" src="https://github.com/user-attachments/assets/226acb74-9627-4e7b-b9e4-1cd305779de0" />
-<img width="1545" height="2000" alt="13" src="https://github.com/user-attachments/assets/0be6accb-c738-468d-a4df-d8f715ef1b6c" />
-<img width="1545" height="2000" alt="14" src="https://github.com/user-attachments/assets/c84066d6-8431-4de4-9b5c-45fde0eea300" />
-<img width="1545" height="2000" alt="15" src="https://github.com/user-attachments/assets/747beae3-ff94-40cc-a71f-9e6dc37c6c48" />
-<img width="1545" height="2000" alt="16" src="https://github.com/user-attachments/assets/b7b03826-712d-40af-be8d-bd6c902b631c" />
-<img width="1545" height="2000" alt="17" src="https://github.com/user-attachments/assets/2109f69c-69c8-458f-8f6c-3c649bb25b0c" />
-<img width="1545" height="2000" alt="18" src="https://github.com/user-attachments/assets/774e8d35-089f-474d-a715-c5666a06f05c" />
-<img width="1545" height="2000" alt="19" src="https://github.com/user-attachments/assets/64e32096-fcee-4c7f-923e-90481938a5af" />
+## 🎓 2026 Class Council
+*Communications Committee Chair*
+<img width="1500" height="500" alt="2" src="https://github.com/user-attachments/assets/28cf2f32-5d89-4d1a-869d-f80892f6c1a8" />
+
+## 🏫 Sorin College
+*Senior Fellow, Apparel, Website Design*
+<img width="1500" height="500" alt="3" src="https://github.com/user-attachments/assets/01c99a43-d943-458b-bd36-2e71045ee364" />
+<img width="1500" height="500" alt="4" src="https://github.com/user-attachments/assets/8653f351-f780-4aa5-9060-b0e6671dbb2c" />
+<img width="1500" height="500" alt="5" src="https://github.com/user-attachments/assets/9811ea6a-ade0-4bd3-b6f2-d5d35e45ec89" />
+
+## 🍽️ Sorin Food Sales
+*Marketing, Promotional Content*
+<img width="1500" height="500" alt="6" src="https://github.com/user-attachments/assets/b7e60b6c-93f7-4f2c-bbb1-86c54a3dabda" />
+
+## 🗳️ Class Council Campaigns
+*Social Media*
+<img width="1500" height="500" alt="7" src="https://github.com/user-attachments/assets/c6cab4cc-c7b7-4015-8b9d-b4856c585264" />
+
+## 📖 The Dome Yearbook
+*Design, Layout*
+<img width="1500" height="500" alt="8" src="https://github.com/user-attachments/assets/4c9505f0-7257-41b9-ac7d-293c400ba124" />
