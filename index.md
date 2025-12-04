@@ -6,14 +6,17 @@ nav_order: 1
 
 # Andrew Ryan
 
-Welcome to my site! I’m a senior studying political science at the University of Notre Dame with interests in public service, strategic communication, and digital media. This website serves as my portfolio and a space to highlight my projects and experiences.
+Welcome! I'm **Andrew Ryan**, a political science student at the University of Notre Dame with interests in public service, digital strategy, and political communication. 
 
 ---
 
-## 🧭 Sections
-- [About](about.md)
-- [Projects](projects.md)
-- [Resume](resume.md)
-- [Contact](contact.md)
+## 🧭 Explore the Site
+
+- **[About Me](about.md)** — background, interests, activities  
+- **[Projects](projects.md)** — academic and digital work  
+- **[Resume](resume.md)** — education, experience, and skills  
+- **[Contact](contact.md)** — how to reach me  
+
+---
 
 Thanks for visiting!
