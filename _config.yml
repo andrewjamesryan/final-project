@@ -14,7 +14,7 @@ just_the_docs:
     - projects.md
     - work.md
     - resume.md
-    - contact.md
+    - running.md
 
 aux_links:
   GitHub Repository: https://github.com/andrewjamesryan/final-project
